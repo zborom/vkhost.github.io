@@ -3,7 +3,7 @@
 const apps = [
 
         [
-6463690, 'Маруся', 'https://pp.userapi.com/c412825/v412825174/6522/nEKTkD_Uqcg.jpg', 'ВКонтакте для Android', 132]
+6463690, 'Маруся', 'https://sun9-56.userapi.com/Zbl1njzBDZ4v9shXbclysDxLjeG7KHgYFAlwMw/rb-hbmdVyxI.jpg', 'ВКонтакте для Android', 132]
     ],
     utypes = [
         [0, 'Уведомления', 'notify', 'только для iframe-приложений'],
